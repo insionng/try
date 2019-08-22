@@ -1,7 +1,7 @@
 package try_test
 
 import (
-	"github.com/manucorporat/try"
+	"github.com/insionng/try"
 	"testing"
 )
 
